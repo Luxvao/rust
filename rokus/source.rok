@@ -1,0 +1,52 @@
+// Single-line comments
+/* Multi-line comments */
+
+fn main() {
+    var variable: int = 3; // Assigning a variable
+
+    func(); // Calling a function
+
+    // If statements
+    if (5 == 5) {
+
+    }
+    else if ... {
+
+    }
+    else {
+
+    }
+
+    // For loop
+    for (int i = 0; i < 5; i++) {
+
+    }
+
+    // While loop
+    while (condition) {
+
+    }
+
+    // Arithmetic operations
+    5 + 5;
+    5 - 5;
+    5 * 5;
+    5 / 5;
+
+    // Boolean algebra
+    5 == 5;
+    5 != 5;
+    5 > 5;
+    5 < 5;
+    5 >= 5;
+    5 <= 5;
+
+    // Inline assembly
+    asm {
+        mov rax, 5
+        ...
+    }
+
+    // Return statements
+    return 5;
+}
